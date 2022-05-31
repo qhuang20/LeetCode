@@ -1,0 +1,2 @@
+
+https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/753339/Python-Self-Balanced-Tree-(AVL-Tree)
